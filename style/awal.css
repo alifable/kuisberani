@@ -1,0 +1,109 @@
+html {
+background-color: black;
+} 
+
+	@font-face {  
+	  font-family: Star Avenue;  
+	  src: url('fonts/Star Avenue.ttf')format("truetype");
+	}  
+	
+	h1{
+	font-family: Star Avenue, Lucida Grande, sans-serif; 
+ font-size: 100px;
+  margin-top:-103px;
+  margin-bottom:-65px;
+ color:white
+	}
+	
+	h2{
+	font-family: Star Avenue, Lucida Grande, sans-serif; 
+ font-size: 30px;
+ color:#d6e030
+	}
+
+
+
+#space{
+height:10px;
+}
+
+#content {
+    padding:0px;
+	width: 800px;
+	margin: 150 auto;
+
+    
+}
+
+#calculate{
+margin-top:50px;
+height:13px;
+width:45px;
+}
+
+
+
+
+.button
+{
+  background-color: #f73946;
+  display: inline-block;
+  text-align: center;
+  padding-top: 12px;
+  padding-right: 31px;
+  padding-bottom: 15px;
+  padding-left: 31px;
+  color: #ffffff;
+  font-weight: bold;
+  line-height: 1em;
+  font-family: "Helvetica Neue","Helvetica",Arial,Verdana,sans-serif;
+  position: relative;
+  cursor: pointer;
+  border-top-width: medium;
+  border-right-width-value: medium;
+  border-bottom-width: medium;
+  border-left-width-value: medium;
+  border-top-style: none;
+  border-right-style-value: none;
+  border-bottom-style: none;
+  outline-width: medium;
+  outline-style: none;
+  text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.4);
+
+}
+
+/* Line 188 */
+.button.radius
+{
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+/* Line 224 */
+.red.button
+{
+  background-color: #f73946;
+}
+
+/* Line 471 */
+.button:hover, .button:focus
+{
+  background-color: #616367;
+}
+
+
+#ex5 img
+{
+ -moz-border-radius: 50px;
+ border-radius:50px;
+
+}
+
+/* Line 138 */
+#ex5 img:hover
+{
+  opacity: 1;
+  box-shadow: 0px 0px 30px rgba(255, 255, 255, 0.8);
+}

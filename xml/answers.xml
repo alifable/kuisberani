@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<QUESTIONS>
+	<ANSWERS>
+		<ANSWER>0</ANSWER>
+		<EXPLANATION>New York adalah pusat keuangan di Amerika Serikat</EXPLANATION>
+		<WEIGHT>1</WEIGHT>
+	</ANSWERS>
+	<ANSWERS>
+		<ANSWER>3</ANSWER>
+		<EXPLANATION>Hungaria adalah negara yang tidak dilalui oleh Pegunungan Alpen</EXPLANATION>
+		<WEIGHT>1</WEIGHT>
+	</ANSWERS>
+	<ANSWERS>
+		<ANSWER>2</ANSWER>
+		<EXPLANATION>Uruguay adalah Juara Dunia pertama kali pada tahun 1930</EXPLANATION>
+		<WEIGHT>1</WEIGHT>
+	</ANSWERS>
+	<ANSWERS>
+		<ANSWER>2</ANSWER>
+		<EXPLANATION>R.T. Soeryo adalah Gubernur Provinsi Jawa Timur yang pertama</EXPLANATION>
+		<WEIGHT>1</WEIGHT>
+	</ANSWERS>
+	<ANSWERS>
+		<ANSWER>2</ANSWER>
+		<EXPLANATION>O Ina Ni Keke adalah lagu daerah yang berasal dari Sulawesi Utara</EXPLANATION>
+		<WEIGHT>1</WEIGHT>
+	</ANSWERS>
+	
+	<ANSWERS>
+		<ANSWER>2</ANSWER>
+		<EXPLANATION>14 Agustus diperingati sebagai Hari Pramuka</EXPLANATION>
+		<WEIGHT>1</WEIGHT>
+	</ANSWERS>
+	<ANSWERS>
+		<ANSWER>2</ANSWER>
+		<EXPLANATION>Mesir adalah negara dituju oleh Pasukan Garuda 1, Pasukan Perdamaian Indonesia dibawah berdera PBB</EXPLANATION>
+		<WEIGHT>1</WEIGHT>
+	</ANSWERS>
+	<ANSWERS>
+		<ANSWER>2</ANSWER>
+		<EXPLANATION>Gotong Royong adalah kabinet yang dipimpin oleh Presiden Megawati Soekarnoputri</EXPLANATION>
+		<WEIGHT>1</WEIGHT>
+	</ANSWERS>
+	<ANSWERS>
+		<ANSWER>0</ANSWER>
+		<EXPLANATION>Empu Walmiki adalah pengarang kitab Ramayana</EXPLANATION>
+		<WEIGHT>1</WEIGHT>
+	</ANSWERS>
+	<ANSWERS>
+		<ANSWER>2</ANSWER>
+		<EXPLANATION>Filipina adalah salah satu negara ASEAN yang berbentuk Republik</EXPLANATION>
+		<WEIGHT>1</WEIGHT>
+	</ANSWERS>
+
+</QUESTIONS>
