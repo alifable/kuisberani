@@ -7,8 +7,8 @@ Anda tertarik silahkan mencoba
 
 Deskripsi Teknis : 
 -menggunakan javascript yang diperoleh dari CS Truter yang written by Christoff Truter yang kami modifikasi 
--menggunakan xml j
-uga diperoleh dari S Truter yang written by Christoff Truter yang kami modifikasi 
--menggunakan html -menggunakan CSS 
+-menggunakan xml juga diperoleh dari S Truter yang written by Christoff Truter yang kami modifikasi 
+-menggunakan html
+menggunakan CSS 
 
 demo URL : http://ayoulangan.freeiz.com
