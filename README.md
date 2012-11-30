@@ -9,6 +9,8 @@ Deskripsi Teknis :
 -menggunakan javascript yang diperoleh dari CS Truter yang written by Christoff Truter yang kami modifikasi 
 -menggunakan xml juga diperoleh dari S Truter yang written by Christoff Truter yang kami modifikasi 
 -menggunakan html
-menggunakan CSS 
+-menggunakan CSS 
 
-demo URL : http://ayoulangan.freeiz.com
+demo URL
+penasaran ?? tidak mau kalah dengan anak kelas 5 SD ??
+check di sini http://ayoulangan.freeiz.com
